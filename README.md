@@ -1,6 +1,5 @@
-# imputation_methods_for_mixed_type_dataset
-imputation methods for mixed type dataset
+# Imputation Methods for Numreical Dataset
 
-## dataset from kaggle
-### Personal Finance ML Dataset
+## Dataset from kaggle
+### Credit Risk Benchmark Dataset
 https://www.kaggle.com/datasets/adilshamim8/credit-risk-benchmark-dataset
